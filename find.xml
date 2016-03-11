@@ -1,0 +1,19 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Module 'railgun'" />
+    <option name="defaultScopeName" value="Module 'railgun'" />
+    <option name="SEARCH_SCOPE" value="Module 'railgun'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.java</mask>
+      <mask>*.xml</mask>
+      <mask>.js</mask>
+      <mask>*.js</mask>
+    </recentFileMasks>
+  </component>
+</application>
