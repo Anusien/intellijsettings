@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/home/kbinswanger/indeed/jasx/src/java/com/indeed/search/logic/WebSearchLogic.java'" />
-    <option name="defaultScopeName" value="File '/home/kbinswanger/indeed/jasx/src/java/com/indeed/search/logic/WebSearchLogic.java'" />
-    <option name="SEARCH_SCOPE" value="File '/home/kbinswanger/indeed/jasx/src/java/com/indeed/search/logic/WebSearchLogic.java'" />
+    <option name="customScope" value="File '/home/kbinswanger/indeed/jasx/src/java/com/indeed/search/controller/WebSearchController.java'" />
+    <option name="defaultScopeName" value="File '/home/kbinswanger/indeed/jasx/src/java/com/indeed/search/controller/WebSearchController.java'" />
+    <option name="SEARCH_SCOPE" value="File '/home/kbinswanger/indeed/jasx/src/java/com/indeed/search/controller/WebSearchController.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
