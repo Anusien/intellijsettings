@@ -605,6 +605,12 @@
         <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
+    <option name="PHP_PARAMETER">
+      <value />
+    </option>
+    <option name="PHP_VAR">
+      <value />
+    </option>
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
