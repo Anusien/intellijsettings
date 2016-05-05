@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/home/kbinswanger/indeed/jasx/src/java/com/indeed/jobsearch/jobclick/AdClickServlet.java'" />
-    <option name="defaultScopeName" value="File '/home/kbinswanger/indeed/jasx/src/java/com/indeed/jobsearch/jobclick/AdClickServlet.java'" />
-    <option name="SEARCH_SCOPE" value="File '/home/kbinswanger/indeed/jasx/src/java/com/indeed/jobsearch/jobclick/AdClickServlet.java'" />
+    <option name="customScope" value="Project 'Jobsearch'" />
+    <option name="defaultScopeName" value="Project 'Jobsearch'" />
+    <option name="SEARCH_SCOPE" value="Project 'Jobsearch'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -11,9 +11,9 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.java</mask>
-      <mask>*.xml</mask>
       <mask>.js</mask>
       <mask>*.js</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
