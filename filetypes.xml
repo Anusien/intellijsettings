@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="SortedOut.java" type="CLASS" />
       <mapping ext="thtml" type="PHP" />
+      <mapping pattern="jasxolympicslogotst" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
