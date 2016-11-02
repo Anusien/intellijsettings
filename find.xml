@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[logproc] - .../logproc/src/java/com/indeed/logproc/jobsearch/stages/JobImpressionsStage.java'" />
-    <option name="defaultScopeName" value="File '[logproc] - .../logproc/src/java/com/indeed/logproc/jobsearch/stages/JobImpressionsStage.java'" />
-    <option name="SEARCH_SCOPE" value="File '[logproc] - .../logproc/src/java/com/indeed/logproc/jobsearch/stages/JobImpressionsStage.java'" />
+    <option name="customScope" value="File '[logproc] - .../logproc/src/java/com/indeed/logproc/search/SearchImpressionsRecord.java'" />
+    <option name="defaultScopeName" value="File '[logproc] - .../logproc/src/java/com/indeed/logproc/search/SearchImpressionsRecord.java'" />
+    <option name="SEARCH_SCOPE" value="File '[logproc] - .../logproc/src/java/com/indeed/logproc/search/SearchImpressionsRecord.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
