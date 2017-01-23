@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[proctor-consumer] - .../proctor/proctor-consumer/src/main/java/com/indeed/proctor/consumer/spring/ShowRandomGroupsHandler.java'" />
-    <option name="defaultScopeName" value="File '[proctor-consumer] - .../proctor/proctor-consumer/src/main/java/com/indeed/proctor/consumer/spring/ShowRandomGroupsHandler.java'" />
-    <option name="SEARCH_SCOPE" value="File '[proctor-consumer] - .../proctor/proctor-consumer/src/main/java/com/indeed/proctor/consumer/spring/ShowRandomGroupsHandler.java'" />
+    <option name="customScope" value="File '[jobsearch-webapp-common] - .../jobsearch-webapp-common/src/java/com/indeed/common/jobsearch/webapp/prefs/PreferencesCookieHandler.java'" />
+    <option name="defaultScopeName" value="File '[jobsearch-webapp-common] - .../jobsearch-webapp-common/src/java/com/indeed/common/jobsearch/webapp/prefs/PreferencesCookieHandler.java'" />
+    <option name="SEARCH_SCOPE" value="File '[jobsearch-webapp-common] - .../jobsearch-webapp-common/src/java/com/indeed/common/jobsearch/webapp/prefs/PreferencesCookieHandler.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
