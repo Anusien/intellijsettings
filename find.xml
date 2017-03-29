@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[jasx] - .../jasx/src/java/jasx/servlet/TellaFriendRPCServlet.java'" />
-    <option name="defaultScopeName" value="File '[jasx] - .../jasx/src/java/jasx/servlet/TellaFriendRPCServlet.java'" />
-    <option name="SEARCH_SCOPE" value="File '[jasx] - .../jasx/src/java/jasx/servlet/TellaFriendRPCServlet.java'" />
+    <option name="customScope" value="File '[jiraactions] - .../jiraactions/src/java/com/indeed/skeleton/index/builder/jiraaction/PeriodParser.java'" />
+    <option name="defaultScopeName" value="File '[jiraactions] - .../jiraactions/src/java/com/indeed/skeleton/index/builder/jiraaction/PeriodParser.java'" />
+    <option name="SEARCH_SCOPE" value="File '[jiraactions] - .../jiraactions/src/java/com/indeed/skeleton/index/builder/jiraaction/PeriodParser.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
