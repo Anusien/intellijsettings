@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[logproc] - .../logproc/src/java/com/indeed/logproc/mobviewjob/MobViewJobEventSetRecordParser.java'" />
-    <option name="defaultScopeName" value="File '[logproc] - .../logproc/src/java/com/indeed/logproc/mobviewjob/MobViewJobEventSetRecordParser.java'" />
-    <option name="SEARCH_SCOPE" value="File '[logproc] - .../logproc/src/java/com/indeed/logproc/mobviewjob/MobViewJobEventSetRecordParser.java'" />
+    <option name="customScope" value="File '[webapp-common] - .../webapp-common/src/java/com/indeed/webapp/common/botdetection/AbstractSpiderMatcher.java'" />
+    <option name="defaultScopeName" value="File '[webapp-common] - .../webapp-common/src/java/com/indeed/webapp/common/botdetection/AbstractSpiderMatcher.java'" />
+    <option name="SEARCH_SCOPE" value="File '[webapp-common] - .../webapp-common/src/java/com/indeed/webapp/common/botdetection/AbstractSpiderMatcher.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
