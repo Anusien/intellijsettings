@@ -3,6 +3,7 @@
     <option name="customScope" value="File '[webapp-common] - .../webapp-common/src/java/com/indeed/webapp/common/botdetection/AbstractSpiderMatcher.java'" />
     <option name="defaultScopeName" value="File '[webapp-common] - .../webapp-common/src/java/com/indeed/webapp/common/botdetection/AbstractSpiderMatcher.java'" />
     <option name="SEARCH_SCOPE" value="File '[webapp-common] - .../webapp-common/src/java/com/indeed/webapp/common/botdetection/AbstractSpiderMatcher.java'" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
