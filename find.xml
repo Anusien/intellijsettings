@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[imhotep-teambuilders-jobsearch] - .../imhotep-teambuilders-jobsearch/src/java/com/indeed/imhotep/teambuilders/jobsearch/jserr/MobileJavascriptErrorParser.java'" />
-    <option name="defaultScopeName" value="File '[imhotep-teambuilders-jobsearch] - .../imhotep-teambuilders-jobsearch/src/java/com/indeed/imhotep/teambuilders/jobsearch/jserr/MobileJavascriptErrorParser.java'" />
-    <option name="SEARCH_SCOPE" value="File '[imhotep-teambuilders-jobsearch] - .../imhotep-teambuilders-jobsearch/src/java/com/indeed/imhotep/teambuilders/jobsearch/jserr/MobileJavascriptErrorParser.java'" />
+    <option name="customScope" value="File '[imhotep-teambuilders-jobsearch] - .../imhotep-teambuilders-jobsearch/test/java/com/indeed/imhotep/teambuilders/jobsearch/jserr/TestMobileJavascriptErrorDocumentParser.java'" />
+    <option name="defaultScopeName" value="File '[imhotep-teambuilders-jobsearch] - .../imhotep-teambuilders-jobsearch/test/java/com/indeed/imhotep/teambuilders/jobsearch/jserr/TestMobileJavascriptErrorDocumentParser.java'" />
+    <option name="SEARCH_SCOPE" value="File '[imhotep-teambuilders-jobsearch] - .../imhotep-teambuilders-jobsearch/test/java/com/indeed/imhotep/teambuilders/jobsearch/jserr/TestMobileJavascriptErrorDocumentParser.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
