@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[forumservice] - .../forumservice/tools/java/com/indeed/forumservice/tools/ForumDataBuilder.java'" />
-    <option name="defaultScopeName" value="File '[forumservice] - .../forumservice/tools/java/com/indeed/forumservice/tools/ForumDataBuilder.java'" />
-    <option name="SEARCH_SCOPE" value="File '[forumservice] - .../forumservice/tools/java/com/indeed/forumservice/tools/ForumDataBuilder.java'" />
+    <option name="customScope" value="File '[forumservice] - .../forumservice/src/java/com/indeed/forumservice/db/SpringForumServiceDAO.java'" />
+    <option name="defaultScopeName" value="File '[forumservice] - .../forumservice/src/java/com/indeed/forumservice/db/SpringForumServiceDAO.java'" />
+    <option name="SEARCH_SCOPE" value="File '[forumservice] - .../forumservice/src/java/com/indeed/forumservice/db/SpringForumServiceDAO.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
