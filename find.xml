@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../forumservice/src/java/com/indeed/forumservice/RemoteForumService.java - [forumservice]'" />
+    <option name="defaultScopeName" value="File '.../forumservice/src/java/com/indeed/forumservice/RemoteForumService.java - [forumservice]'" />
+    <option name="SEARCH_SCOPE" value="File '.../forumservice/src/java/com/indeed/forumservice/RemoteForumService.java - [forumservice]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
