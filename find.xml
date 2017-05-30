@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[jiraactions] - .../jiraactions/src/java/com/indeed/jiraactions/Action.java'" />
     <option name="defaultScopeName" value="File '[jiraactions] - .../jiraactions/src/java/com/indeed/jiraactions/Action.java'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '[jiraactions] - .../jiraactions/src/java/com/indeed/jiraactions/Action.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
