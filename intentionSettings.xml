@@ -5,5 +5,7 @@
     <ignoreAction name="Java/Imports/Add On Demand Static Import" />
     <ignoreAction name="Java/Declaration/Replace implements with static import" />
     <ignoreAction name="XML/Insert namespace prefix" />
+    <ignoreAction name="Java/Declaration/Split Declaration" />
+    <ignoreAction name="Java/Declaration/Split Declaration and Initialization" />
   </component>
 </application>
