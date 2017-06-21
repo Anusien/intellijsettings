@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[indeedmobile] - .../indeedmobile/src/java/com/indeed/mobileweb/config/MobileConfiguration.java'" />
-    <option name="defaultScopeName" value="File '[indeedmobile] - .../indeedmobile/src/java/com/indeed/mobileweb/config/MobileConfiguration.java'" />
-    <option name="SEARCH_SCOPE" value="File '[indeedmobile] - .../indeedmobile/src/java/com/indeed/mobileweb/config/MobileConfiguration.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
