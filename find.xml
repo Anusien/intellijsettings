@@ -17,6 +17,23 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.jsp</mask>
+      <mask>J</mask>
+      <mask>JUSB</mask>
+      <mask>JUS</mask>
+      <mask>JU</mask>
+      <mask>JS</mask>
+      <mask>JSB</mask>
+      <mask>JSBu</mask>
+      <mask>JSBund</mask>
+      <mask>JSBundle</mask>
+      <mask>JSBundle*</mask>
+      <mask>JSBundle*./</mask>
+      <mask>JSBundle*.</mask>
+      <mask>JSBundle*.porp</mask>
+      <mask>JSBundle*.por</mask>
+      <mask>JSBundle*.po</mask>
+      <mask>JSBundle*.proper</mask>
+      <mask>JSBundle*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
