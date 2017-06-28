@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[jasx] - .../jasx/src/java/com/indeed/tools/build/JSBundleResolver.java'" />
-    <option name="defaultScopeName" value="File '[jasx] - .../jasx/src/java/com/indeed/tools/build/JSBundleResolver.java'" />
-    <option name="SEARCH_SCOPE" value="File '[jasx] - .../jasx/src/java/com/indeed/tools/build/JSBundleResolver.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
