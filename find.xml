@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[search-config] - .../search-config/src/java/com/indeed/globalconfig/GlobalConfiguration.java'" />
-    <option name="defaultScopeName" value="File '[search-config] - .../search-config/src/java/com/indeed/globalconfig/GlobalConfiguration.java'" />
-    <option name="SEARCH_SCOPE" value="File '[search-config] - .../search-config/src/java/com/indeed/globalconfig/GlobalConfiguration.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
