@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.*.swp;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="SortedOut.java" type="CLASS" />
+      <mapping pattern="gitignore_global" type="Git file" />
       <mapping ext="thtml" type="PHP" />
       <mapping pattern="jasxolympicslogotst" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
