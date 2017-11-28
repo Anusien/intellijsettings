@@ -12,6 +12,7 @@
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="release" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="scss" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
