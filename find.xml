@@ -5,15 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="ivy.xml" />
     <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.</mask>
-      <mask>*.jsp</mask>
-      <mask>J</mask>
-      <mask>JUSB</mask>
-      <mask>JUS</mask>
-      <mask>JU</mask>
-      <mask>JS</mask>
       <mask>JSB</mask>
       <mask>JSBu</mask>
       <mask>JSBund</mask>
@@ -36,6 +29,14 @@
       <mask>*.xml</mask>
       <mask>(</mask>
       <mask>*.soy</mask>
+      <mask>iov</mask>
+      <mask>io</mask>
+      <mask>iv</mask>
+      <mask>ivy.</mask>
+      <mask>ivy.xmol</mask>
+      <mask>ivy.xmo</mask>
+      <mask>ivy.xm</mask>
+      <mask>ivy.xml</mask>
     </recentFileMasks>
   </component>
 </application>
