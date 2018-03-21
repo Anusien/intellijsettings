@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[common-consul] - .../common-consul/src/java/com/indeed/common/consul/ConsulKeyValueStoreDependency.java'" />
-    <option name="defaultScopeName" value="File '[common-consul] - .../common-consul/src/java/com/indeed/common/consul/ConsulKeyValueStoreDependency.java'" />
-    <option name="SEARCH_SCOPE" value="File '[common-consul] - .../common-consul/src/java/com/indeed/common/consul/ConsulKeyValueStoreDependency.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>JSBundle</mask>
       <mask>JSBundle*</mask>
