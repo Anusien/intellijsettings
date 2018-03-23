@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>JSB</mask>
-      <mask>JSBu</mask>
       <mask>JSBund</mask>
       <mask>JSBundle</mask>
       <mask>JSBundle*</mask>
@@ -22,9 +20,6 @@
       <mask>.xm</mask>
       <mask>.x</mask>
       <mask>.</mask>
-      <mask>*</mask>
-      <mask>*.xml</mask>
-      <mask>(</mask>
       <mask>*.soy</mask>
       <mask>iov</mask>
       <mask>io</mask>
@@ -34,6 +29,11 @@
       <mask>ivy.xmo</mask>
       <mask>ivy.xm</mask>
       <mask>ivy.xml</mask>
+      <mask>(</mask>
+      <mask>*&amp;</mask>
+      <mask>*</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
