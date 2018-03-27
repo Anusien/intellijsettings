@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../common-jobsearch/src/java/com/indeed/common/jobsearch/callout/Callout.java [common-jobsearch]'" />
+    <option name="defaultScopeName" value="File '.../common-jobsearch/src/java/com/indeed/common/jobsearch/callout/Callout.java [common-jobsearch]'" />
+    <option name="SEARCH_SCOPE" value="File '.../common-jobsearch/src/java/com/indeed/common/jobsearch/callout/Callout.java [common-jobsearch]'" />
     <recentFileMasks>
       <mask>JSBund</mask>
       <mask>JSBundle</mask>
