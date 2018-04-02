@@ -2,13 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
-      <mask>JSBundle</mask>
-      <mask>JSBundle*</mask>
-      <mask>JSBundle*./</mask>
       <mask>JSBundle*.</mask>
       <mask>JSBundle*.porp</mask>
       <mask>JSBundle*.por</mask>
@@ -33,9 +29,12 @@
       <mask>*&amp;</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
-      <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.soy</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
