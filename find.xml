@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[logproc] - .../logproc/src/java/com/indeed/logproc/search/SpamSerpDetectorRecordParserConfig.java'" />
-    <option name="defaultScopeName" value="File '[logproc] - .../logproc/src/java/com/indeed/logproc/search/SpamSerpDetectorRecordParserConfig.java'" />
-    <option name="SEARCH_SCOPE" value="File '[logproc] - .../logproc/src/java/com/indeed/logproc/search/SpamSerpDetectorRecordParserConfig.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>JSBundle*.por</mask>
       <mask>JSBundle*.po</mask>
