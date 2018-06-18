@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>JSBundle*.por</mask>
-      <mask>JSBundle*.po</mask>
       <mask>JSBundle*.proper</mask>
       <mask>JSBundle*.properties</mask>
       <mask>,.</mask>
@@ -28,12 +26,14 @@
       <mask>*.xml</mask>
       <mask>*.s</mask>
       <mask>*.soy</mask>
+      <mask>*</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>*</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
