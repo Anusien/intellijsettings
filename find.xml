@@ -4,10 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>JSBundle*.</mask>
-      <mask>JSBundle*.porp</mask>
-      <mask>JSBundle*.por</mask>
-      <mask>JSBundle*.po</mask>
       <mask>JSBundle*.proper</mask>
       <mask>JSBundle*.properties</mask>
       <mask>,.</mask>
@@ -16,7 +12,6 @@
       <mask>.xm</mask>
       <mask>.x</mask>
       <mask>.</mask>
-      <mask>*.soy</mask>
       <mask>iov</mask>
       <mask>io</mask>
       <mask>iv</mask>
@@ -27,13 +22,18 @@
       <mask>ivy.xml</mask>
       <mask>(</mask>
       <mask>*&amp;</mask>
-      <mask>*</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.jav</mask>
+      <mask>*.xml</mask>
+      <mask>*.s</mask>
+      <mask>*.soy</mask>
+      <mask>*</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
